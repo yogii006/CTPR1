@@ -1,5 +1,6 @@
 opencv-python --upgrade
 streamlit --upgrade
+--upgrade pip
 
 attrs==23.1.0
 blinker==1.7.0
